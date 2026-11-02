@@ -123,7 +123,7 @@
         <defaultProjectile>Bullet_OPTurret</defaultProjectile>
         <warmupTime>0</warmupTime>
         <range>99</range>
-        <ticksBetweenBurstShots>0.01</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
         <burstShotCount>5</burstShotCount>
         <soundCast>GunShotA</soundCast>
         <soundCastTail>GunTail_Light</soundCastTail>
